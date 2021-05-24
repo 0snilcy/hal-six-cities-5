@@ -13,7 +13,7 @@ import browserHistory from '../../browser-history';
 
 const App = () => {
   return (
-    <BrowserRouter history={browserHistory}>
+    <BrowserRouter basename="hal-six-cities-5" history={browserHistory}>
       <Switch>
         <PrivateRoute
           exact
