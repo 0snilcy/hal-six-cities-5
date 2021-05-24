@@ -1,7 +1,0 @@
-# GET https://5.react.pages.academy/six-cities/hotels HTTP/1.1
-POST https://5.react.pages.academy/six-cities/login HTTP/1.1
-content-type: application/json
-{
-  "login": "123@ya.ru",
-  "password": "123dsada"
-}
